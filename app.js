@@ -7,4 +7,8 @@ function listarUsuarios() {
 
 listarUsuarios();
 
+
+
+
+console.log("Funcionalidad nueva2");
 console.log("Funcionalidad nueva");
