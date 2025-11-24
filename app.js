@@ -13,6 +13,9 @@ listarUsuarios();
 
 
 
+
+
+console.log("Funcionalidad nueva5");
 console.log("Funcionalidad nueva4");
 console.log("Funcionalidad nueva3");
 console.log("Funcionalidad nueva2");
