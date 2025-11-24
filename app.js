@@ -6,3 +6,5 @@ function listarUsuarios() {
 }
 
 listarUsuarios();
+
+console.log("Funcionalidad nueva");
